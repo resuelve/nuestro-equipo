@@ -85,15 +85,15 @@ También tenemos otros proyectos o pilotos con otras tecnologías que también n
 * DynamoDB
 
 
-# Cómo trabajamos?
-Nos gustan los grandes retos y grandes proyectos. Empezarlos pequeños, un paso a la vez, probar y validar.
-Admiramos un buen pedazo de código
-Nos gusta que nuestro código esté limpio y sea entendible
-Nos encanta la documentación
-Nos gusta TDD
-No te diremos como hacer tu trabajo
+# ¿Cómo trabajamos?
+* Nos gustan los grandes retos y grandes proyectos; Empezarlos pequeños, un paso a la vez, probar, validar e iterar
+* Admiramos un buen pedazo de código
+* Nos gusta que nuestro código sea hermoso, limpio y legible. Escribimos código para que otra persona lo lea no para que una computadora lo lea
+* La documentación es la única manera que tenemos de comunicarnos con la próxima persona que vaya a mantener tu código
+* Nos gusta TDD
+* Nunca te diremos como hacer tu trabajo, el experto eres tu
 
 # Contacto
-mailto: ing@resuelve.io
+ing@resuelve.io
 
 nuestro blog: https://blog.resuelve.io/
