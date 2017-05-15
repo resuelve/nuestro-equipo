@@ -16,7 +16,7 @@ Ofrecemos soluciones tecnológicas a problemas financieros. Somos la fintech lí
 Porque no sólo somos Resuelve Tu Deuda, tenemos otros productos que solucionan distintos problemas financieros. Te mostramos algunos de los productos que actualmente están en operación, tenemos muchos otros más en desarrollo.
 
 ## Enconta
-Servicio de contabilidad 
+Servicio de contabilidad. Estamos automatizando el proceso de contabilidad en México, queremos que tu experiencia, tu experiencia con tu contador nunca volverá a ser igual.
 
 ### Retos
 * **Automatización de contabilidad**. El proceso para realizar la contabilidad es repetitivo y tedioso. Por suerte, las reglas para realizar la contabilidad están claras lo que nos permitirá automatizar por completo el proceso.
