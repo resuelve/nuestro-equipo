@@ -38,10 +38,11 @@ La reparadora de crédito más grande América Latina https://www.resuelvetudued
 * **Concurrencia y alta disponibilidad**. Nuestros diferentes zonas horarias hacen que necesitemos operación 24/7 sin interrupciones
 * **Optimización de procesos**. RTD es un servicio que lleva varios años por lo que la optimización son ajustos muy puntuales.
 * **Servicio escalable**. Queremos poder atender 1,000,000 de clientes en distintos países y distintos idiomas
-* **Alto impacto**. Administración de MXN $5,000,000 de deuda
+* **Alto impacto**. Administración de MXN $5,000,000,000 de deuda
 
 ### Stack
 * Elixir
+* Phoenix
 * PostgreSQL
 * React
 * C# (Xamarin)
@@ -61,6 +62,7 @@ Además de hacer el banco para nuestras necesidades, nuestro banco funcionará c
 
 ### Stack
 * Elixir
+* Phoenix
 * PostgreSQL
 
 ## La Tasa
@@ -73,7 +75,8 @@ Conectamos a personas que buscan un crédito directo con inversionistas.
 
 ### Stack
 * Elixir
-* Angular
+* Phoenix
+* React 
 
 ## Otros proyectos
 También tenemos otros proyectos o pilotos con otras tecnologías que también nos gustan como:
