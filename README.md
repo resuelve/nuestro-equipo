@@ -30,7 +30,7 @@ Servicio de contabilidad. Estamos automatizando el proceso de contabilidad en M�
 * MongoDB
 
 ## Resuelve Tu Deuda (México, Colombia, Argentina)
-La reparadora de crédito más grande de América Latina https://www.resuelvetudueda.com/
+La reparadora de crédito más grande de América Latina https://www.resuelvetudeuda.com/
 
 ### Retos
 * **Alto impacto**. Servicio a más de 30,000 clientes activos distribuidos en distintas regiones geográficas de América Latina.
