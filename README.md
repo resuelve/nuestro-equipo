@@ -29,7 +29,7 @@ Servicio de contabilidad. Estamos automatizando el proceso de contabilidad en M�
 * PostgreSQL
 * MongoDB
 
-## Resuelve Tu Deuda (México, Colombia, Argentina)
+## Resuelve Tu Deuda (México, Colombia, España, Portugal, Italia, Brasil)
 La reparadora de crédito más grande de América Latina https://www.resuelvetudeuda.com/
 
 ### Retos
